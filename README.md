@@ -118,8 +118,18 @@ uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 
 4. **Start the Next.js frontend:**
 
+
+
+
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
+
+https://github.com/user-attachments/assets/44a9e4cf-aa82-4d1b-8a47-11a22f9727ca
+
+<img width="1470" height="956" alt="ai_ss" src="https://github.com/user-attachments/assets/1f264bc3-190b-4e7c-9982-6155a0f7062f" />
+
+
+
